@@ -1,0 +1,10 @@
+<map id="SoundInfo" name="SoundInfo">
+<area shape="rect" id="node1" title=" " alt="" coords="139,363,220,389"/>
+<area shape="rect" id="node2" href="$structCgbChannel.html" title=" " alt="" coords="5,273,97,300"/>
+<area shape="rect" id="node3" href="$structMusicPlayerInfo.html" title=" " alt="" coords="122,273,237,300"/>
+<area shape="rect" id="node4" href="$structSongHeader.html" title=" " alt="" coords="167,184,261,211"/>
+<area shape="rect" id="node5" href="$structToneData.html" title=" " alt="" coords="224,95,303,121"/>
+<area shape="rect" id="node7" href="$structMusicPlayerTrack.html" title=" " alt="" coords="285,184,412,211"/>
+<area shape="rect" id="node6" href="$structWaveData.html" title=" " alt="" coords="365,5,447,32"/>
+<area shape="rect" id="node8" href="$structSoundChannel.html" title=" " alt="" coords="339,273,446,300"/>
+</map>
